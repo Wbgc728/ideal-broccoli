@@ -1,0 +1,23 @@
+{
+    "name": "ideal-broccoli",
+    "version": "1.0.0",
+    "description": "Team Profile Generator",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Wbgc728/ideal-broccoli.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Wbgc728/ideal-broccoli/issues"
+    },
+    "homepage": "https://github.com/Wbgc728/ideal-broccoli#readme"
+}
